@@ -1,4 +1,4 @@
-## Predicting Employee Attrition
+## Predicting Employee Attrition - as part of CodeClause Internship
 
 ### Project Overview
 
