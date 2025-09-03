@@ -1,5 +1,4 @@
-## Predicting Employee Attrition - as part of CodeClause Internship
-
+## Predicting Employee Attrition
 ### Project Overview
 
 This project involves building a **classification model** to predict whether an employee is likely to leave a company. Using IBM's HR analytics dataset, this project performs data preprocessing, EDA, and model training using Logistic Regression to analyze key factors influencing attrition- as part of CodeClause Internship.
